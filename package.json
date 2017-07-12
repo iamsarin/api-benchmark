@@ -1,5 +1,5 @@
 {
-  "name": "api-benchmark",
+  "name": "apibenchmark",
   "version": "0.4.2",
   "description": "A simple nodejs tool to measure and compare performances of api services",
   "author": "Matteo Figus <matteofigus@gmail.com>",
